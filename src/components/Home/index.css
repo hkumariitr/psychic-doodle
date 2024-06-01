@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+.bottom-container{
+    padding: 10px;
+    padding-top: 5px;
+}
+
+.products-count{
+    font-style: italic;
+    font-family: 'Montserrat';
+    font-weight: lighter;
+    color: gray;
+    align-items: center;
+}
+.products-count svg{
+    font-size: 0.7rem;
+}
+
+.shop-title{
+    
+    font-family: "Kumbh Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+
+    font-style: bold;
+    font-variation-settings:
+      "YOPQ" 300;
+    
+}
+
