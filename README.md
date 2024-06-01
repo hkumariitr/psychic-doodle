@@ -2,6 +2,7 @@
 
 ## Goal
 This project involves rebuilding the HomeHunts page of Furrl's mobile website, implementing specific functionalities, and hosting the page. The final product is hosted at [https://furrl-website.netlify.app/](https://furrl-website.netlify.app/).
+**Github Repo** : https://github.com/hkumariitr/psychic-doodle
 
 ## Features Implemented
 ### Top Navigation Bar
